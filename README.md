@@ -18,3 +18,4 @@ There are two ways of using it:
  ```
    import plotly_uzh_template
    ```
+useful resource:https://plotly.com/python/templates/#creating-themes
