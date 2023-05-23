@@ -14,3 +14,7 @@ There are two ways of using it:
    import matplotlib.pyplot as plt 
    plt.style.use('uzh')
    ```
+3.For using plotly uzh template, download the plotly_uzh_template.py to your working folder, and import the file to your python file or jupyter file as follows:
+ ```
+   import plotly_uzh_template
+   ```
