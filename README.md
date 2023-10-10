@@ -5,6 +5,7 @@ There are two ways of using it:
 1. Using matplotlib
 please upload the Font to your homefolder.
  Online via github - use the following command in your script:
+ Matplotlib 3.5.2 is suggestted to use
    ```
    import matplotlib.pyplot as plt 
    plt.style.use('https://raw.githubusercontent.com/benckj/mpl_style/main/uzh.mplstyle')
@@ -22,7 +23,7 @@ please upload the Font to your homefolder.
    import matplotlib.pyplot as plt 
    plt.style.use('uzh')
    ```
-2. For using plotly uzh template, download the plotly_uzh_template.py to your working folder, and import the file to your python file or jupyter file as follows:
+3. For using plotly uzh template, download the plotly_uzh_template.py to your working folder, and import the file to your python file or jupyter file as follows:
  ```
    import plotly_uzh_template
    ```
