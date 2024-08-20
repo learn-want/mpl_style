@@ -35,6 +35,7 @@ useful resource:https://plotly.com/python/templates/#creating-themes
 =======
 
 ## UZH Colors Dictionary
+['#0028a5', '#bf0d3e', '#a4d233', '#ffc845', '#4ac9e3', '#fc4c02', '#bdc9e8', '#fbc6d4', '#ecf6d6', '#fff4da', '#dbf4f9', '#ffdbcc', '#7596ff', '#f78caa', '#dbedad', '#ffe9b5', '#b7e9f4', '#feb799', '#3062ff', '#f3537f', '#c8e485', '#ffde8f', '#92dfee', '#fe9367', '#001e7c', '#8f0a2e', '#7ca023', '#f3ab00', '#1ea7c4', '#bd3902', '#001452', '#60061f', '#536b18', '#a27200', '#147082', '#7e2601']
 
 If you need to use explicitly a color from the [UZH-Farben](https://www.cd.uzh.ch/de/elements.html#UZH-Farben), you may find useful the following dictionary: keys are the official UZH color designations, while the item is the `str` HEX color value.
 ```
