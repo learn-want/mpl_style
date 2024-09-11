@@ -7,14 +7,14 @@
 
 ### Text
 text.usetex		  : False
-font.size 		  : 16
+font.size 		  : 14
 font.family 	  : sans-serif
 font.sans-serif : Source Sans Pro
 font.weight     : 500
 
 ### Axes
 axes.linewidth : 1.2
-axes.labelsize : 20
+axes.labelsize : 16
 
 ### Ticks
 xtick.labelsize   : 14
