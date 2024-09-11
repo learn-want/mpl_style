@@ -22,16 +22,7 @@ ytick.labelsize   : 16
 ### Legend
 legend.fontsize   : 16
 
-axes.prop_cycle : cycler('color',
-['0028a5', '4ac9e3', 'a5d233', 'ffc845', 'fc4c02', 'bf0d3e', 
- '000000', 'c2c2c2', 'ffffff', 'fafafa', 'bacbff', 'dbf4f9', 
- 'ecf6d6', 'fff4da', 'ffdbcc', 'fbc6d4', 'a3a3a3', 'efefef', 
- '7596ff', 'b7e9f4', 'dbedad', 'ffe9b5', 'feb799', 'f78caa', 
- '4d4d4d', 'e7e7e7', '3062ff', '92dfee', 'c8e485', 'ffde8f', 
- 'fe9367', 'f3537f', '333333', 'e0e0e0', '001e7c', '1ea7c4', 
- '7ca023', 'f3ab00', 'bd3902', '8f0a2e', '666666', 'd7d7d7', 
- '001452', '147082', '536b18', 'a27200', '7e2601', '60061f']
-)
+axes.prop_cycle : cycler('color',['0028a5', '4ac9e3', 'a5d233', 'ffc845', 'fc4c02', 'bf0d3e', '000000', 'c2c2c2', 'ffffff', 'fafafa', 'bacbff', 'dbf4f9', 'ecf6d6', 'fff4da', 'ffdbcc', 'fbc6d4', 'a3a3a3', 'efefef', '7596ff', 'b7e9f4', 'dbedad', 'ffe9b5', 'feb799', 'f78caa', '4d4d4d', 'e7e7e7', '3062ff', '92dfee', 'c8e485', 'ffde8f', 'fe9367', 'f3537f', '333333', 'e0e0e0', '001e7c', '1ea7c4', '7ca023', 'f3ab00', 'bd3902', '8f0a2e', '666666', 'd7d7d7', '001452', '147082', '536b18', 'a27200', '7e2601', '60061f'])
 ### Saving figures
 savefig.facecolor : ffffff
 
