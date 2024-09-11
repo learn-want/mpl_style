@@ -75,8 +75,7 @@ axes.prop_cycle : cycler('color',[
     "A27200",  # UZH Gold V5
     "7E2601",  # UZH Orange V5
     "60061F",  # UZH Berry V5
-    "000000"   # UZH Black
-])
+    "000000"   # UZH Black])
 ### Saving figures
 savefig.facecolor : 333333
 
