@@ -17,8 +17,8 @@ axes.linewidth : 1.2
 axes.labelsize : 16
 
 ### Ticks
-xtick.labelsize   : 12
-ytick.labelsize   : 12
+###xtick.labelsize   : 12
+###ytick.labelsize   : 12
 
 ### Legend
 legend.fontsize   : 14
