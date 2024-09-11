@@ -33,7 +33,7 @@ axes.prop_cycle : cycler('color',
  '001452', '147082', '536b18', 'a27200', '7e2601', '60061f']
 )
 ### Saving figures
-savefig.facecolor : 333333
+savefig.facecolor : ffffff
 
 ###
 figure.dpi : 300
