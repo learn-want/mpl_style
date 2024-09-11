@@ -7,7 +7,7 @@
 
 ### Text
 text.usetex		  : False
-font.size 		  : 14
+font.size 		  : 12
 font.family 	  : sans-serif
 font.sans-serif : Source Sans Pro
 font.weight     : 500
@@ -17,8 +17,8 @@ axes.linewidth : 1.2
 axes.labelsize : 16
 
 ### Ticks
-xtick.labelsize   : 14
-ytick.labelsize   : 14
+xtick.labelsize   : 12
+ytick.labelsize   : 12
 
 ### Legend
 legend.fontsize   : 15
